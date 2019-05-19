@@ -1,0 +1,17 @@
+#button {
+  width: 500px;
+  margin: auto;
+}
+video {
+  display: none;
+  width: 500px;
+  height: 300px;
+}
+button {
+  width: 500px;
+  height: 40px;
+  font-family: "french Script MT";
+  font-size: 30px;
+  background-color: aqua;
+  border: 1px solid blue;
+}

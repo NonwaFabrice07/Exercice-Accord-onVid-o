@@ -1,0 +1,2 @@
+[0829/103317.511:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: L’adresse ou le nom de serveur n’a pas pu être résolu (0x2ee7)
+[0520/065046.925:ERROR:crash_report_database_win.cc(428)] unexpected header
